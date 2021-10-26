@@ -1,1 +1,1 @@
-docker build -t luodaoyi/kms-server:latest .
+docker build -t fastboy/kms-server:latest .
